@@ -1,0 +1,12 @@
+C:\Users\Aira\AppData\Local\Temporary Projects\Lab Task 3\bin\Debug\Lab Task 3.exe.config
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.exe.config
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.exe
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.pdb
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.vbprojResolveAssemblyReference.cache
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Resources.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.vbproj.GenerateResource.Cache
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.exe
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.pdb
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.FormApps.resources
