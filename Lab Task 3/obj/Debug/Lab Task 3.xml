@@ -22,5 +22,15 @@ Lab Task 3
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Lab_Task_3.My.Resources.Resources.Beige_Neutral_Twitter_Profile_Picture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lab_Task_3.My.Resources.Resources.bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
